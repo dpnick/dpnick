@@ -46,6 +46,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to smoothly animate your react native app](https://code-with-yannick.com/how-to-animate-react-native-app)
+- [How to easily manage a global state with the context API](https://code-with-yannick.com/how-to-manage-global-state-with-context)
+- [How to efficiently set up your react native project](https://code-with-yannick.com/how-to-set-up-your-react-native-project)
+- [Who I am &amp; what&#39;s this blog purpose](https://code-with-yannick.com/who-i-am)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://code-with-yannick.com)
