@@ -56,6 +56,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing your ZSH terminal in less than 5minutes](https://code-with-yannick.com/customizing-your-zsh-terminal-in-less-than-5minutes)
 - [How to smoothly animate your react native app](https://code-with-yannick.com/how-to-animate-react-native-app)
 - [How to easily manage a global state with the context API](https://code-with-yannick.com/how-to-manage-global-state-with-context)
 - [How to efficiently set up your react native project](https://code-with-yannick.com/how-to-set-up-your-react-native-project)
