@@ -56,7 +56,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xpost: productivity tool for content creator &amp; technical writer](https://code-with-yannick.com/xpost-productivity-tool-for-content-creator-and-technical-writer)
+- [Xpost: productivity tool for content creator &amp; technical writer](https://code-with-yannick.com/xpost-productivity-tool)
 - [Customizing your ZSH terminal in less than 5minutes](https://code-with-yannick.com/customizing-your-zsh-terminal-in-less-than-5minutes)
 - [How to smoothly animate your react native app](https://code-with-yannick.com/how-to-animate-react-native-app)
 - [How to easily manage a global state with the context API](https://code-with-yannick.com/how-to-manage-global-state-with-context)
